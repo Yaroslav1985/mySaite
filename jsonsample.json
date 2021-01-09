@@ -1,0 +1,13 @@
+[{
+	"name": "Vasya",
+	"age": 25,
+	"position": "Slesar"
+}, {
+	"name": "Petya",
+	"age": 23,
+	"position": "Slesar"
+}, {
+	"name": "Kolya",
+	"age": 35,
+	"position": "Santehnik"
+}]

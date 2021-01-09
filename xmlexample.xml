@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<name>Vasya</name>
+		<age>25</age>
+		<position>Slesar</position>
+	</user>
+	<user>
+		<name>Petya</name>
+		<age>23</age>
+		<position>Slesar</position>
+	</user>
+	<user>
+		<name>Kolya</name>
+		<age>35</age>
+		<position>Santehnik</position>
+	</user>
+</users>
